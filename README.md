@@ -14,6 +14,6 @@ This project is centered on the automatic classification of breast cancer histop
 
 📌 Decision Tree Interpretation A simple, interpretable decision tree is used:
 
-As a surrogate to approximate CNN behavior in a human-readable format,
-Or to classify features extracted from intermediate CNN layers.
+As a surrogate to approximate CNN behavior in a human-readable format,Or to classify features extracted from intermediate CNN layers.
+
 📌 Feature Map Visualization (Layer Outputs) Helps interpret how the network processes and transforms input images layer by layer, offering insight into what the model "sees" at different depths.
