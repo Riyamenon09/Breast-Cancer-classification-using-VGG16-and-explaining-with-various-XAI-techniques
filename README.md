@@ -1,8 +1,8 @@
 # Breast-Cancer-classification-using-VGG16-and-explaining-with-various-XAI-techniques
 
-This project is centered on the automatic classification of breast cancer histopathology images into benign or malignant classes through superior deep learning methods. Building upon the capabilities of VGG16 and ResNet50 via transfer learning, this solution provides precise, rapid, and reproducible identification of cancerous tissue from microscope slides.
+This project is centered on the automatic classification of breast cancer histopathology images into benign or malignant classes through superior deep learning methods. Building upon the capabilities of VGG16 via transfer learning, this solution provides precise, rapid, and reproducible identification of cancerous tissue from microscope slides.
 
- Implements Multiple XAI Techniques to Explain Predictions
+ Implements Multiple XAI Techniques to Explain Predictions:
 
 📌 Grad-CAM (Gradient-weighted Class Activation Mapping) Highlights the spatial regions in an image that influenced the model’s decision the most.
 
